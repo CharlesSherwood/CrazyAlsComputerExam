@@ -36,7 +36,7 @@ double Advanced()
 	return advanced;
 
 }
-
+ 
 int main()
 {
 	double sales =Sales();
